@@ -1,0 +1,1 @@
+For detailed information on the course structure and syllabus, see the [Engineering Tripos Part IIB 4C11: Data‑Driven and Learning‑Based Methods in Mechanics and Materials 2023–24](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4c11-data-driven-and-learning-based-methods-mechanics-and). :contentReference[oaicite:0]{index=0}
